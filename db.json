@@ -1,0 +1,93 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employee": [
+    {
+      "firstName": "abc",
+      "lastName": "safsf",
+      "email": "afdaf@sgsg.com",
+      "dob": "2023-05-02T18:30:00.000Z",
+      "gender": "male",
+      "education": "Post Graduate",
+      "company": "adfaf",
+      "experience": 1,
+      "package": 5,
+      "id": 1
+    },
+    {
+      "firstName": "adfafa",
+      "lastName": "afaf",
+      "email": "afaf@sfgsgf.com",
+      "dob": "2023-05-16T18:30:00.000Z",
+      "gender": "female",
+      "education": "Matric",
+      "company": "afaf",
+      "experience": 2,
+      "package": 3,
+      "id": 2
+    },
+    {
+      "firstName": "afaf",
+      "lastName": "aefaf",
+      "email": "afaf@sfgsgf.com",
+      "dob": "2023-05-10T18:30:00.000Z",
+      "gender": "others",
+      "education": "Matric",
+      "company": "afaf",
+      "experience": 1,
+      "package": 3,
+      "id": 3
+    },
+    {
+      "firstName": "adad",
+      "lastName": "afaf",
+      "email": "afaf@sfgsgf.com",
+      "dob": "2023-05-02T18:30:00.000Z",
+      "gender": "female",
+      "education": "Diploma",
+      "company": "adfaf",
+      "experience": 2,
+      "package": 2,
+      "id": 4
+    },
+    {
+      "firstName": "abc",
+      "lastName": "def",
+      "email": "asdasd@sgasf.com",
+      "dob": "2023-05-09T18:30:00.000Z",
+      "gender": "male",
+      "education": "Diploma",
+      "company": "asda",
+      "experience": 2,
+      "package": 2,
+      "id": 6
+    },
+    {
+      "firstName": "agag",
+      "lastName": "agag",
+      "email": "afaf@sfgsgf.com",
+      "dob": "2023-05-17T18:30:00.000Z",
+      "gender": "female",
+      "education": "Matric",
+      "company": "afaf",
+      "experience": 2,
+      "package": 2,
+      "id": 7
+    }
+  ]
+}
